@@ -1,10 +1,5 @@
 # Hi there, I'm John 👋 
 
-[![YouTube](https://www.youtube.com/channel/UCodExTxlvx6WQK9uri2GACA)][youtube]
-[![Twitter](https://twitter.com/_ion_7)][twitter]
-[![Twitch](https://www.twitch.tv/srpool702)][twitch]
-
-
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
@@ -25,14 +20,15 @@
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />]
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />]
 
-<br />
-<br />
+<!-- <br />
+<br /> -->
 
 ---
 
-### 📺 Social
+<!-- ### 📺 Social
 
 [twitter]: https://twitter.com/_ion_7
 [youtube]: https://www.youtube.com/channel/UCodExTxlvx6WQK9uri2GACA
 [instagram]: https://www.instagram.com/nobody.js/
 [linkedin]: https://www.linkedin.com/in/john-sahir-leon-leon-294313195/
+ -->
