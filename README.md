@@ -1,8 +1,7 @@
 # Hi there, I'm John 👋
+## I'm a Technology Enthusiast and Software Engineer in progress
 
-I' a student of software engineering at the [UPC](https://upc.edu.pe).
-## I'm a Husband, Father, Developer, and Teacher!!
-
+- 🧑‍🎓 I' a student of software engineering at the [UPC](https://upc.edu.pe).
 - 📖 I’m currently learning everything
 - 🥅 2022 Goals: Learn about concurrent programming, and become a full-stack developer
 - 👯 I’m looking to collaborate with other content creators
