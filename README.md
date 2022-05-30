@@ -3,7 +3,7 @@
 I' a student of software engineering at the [UPC](https://upc.edu.pe).
 
 
-### Languages and Tools
+## Languages and Tools
 <br />
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]()
@@ -18,6 +18,11 @@ I' a student of software engineering at the [UPC](https://upc.edu.pe).
 &nbsp;&nbsp;
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />]()
 &nbsp;&nbsp;
+[<img align="left" alt="Angular" width="26px" src="./img/angular.svg" style="padding-right:10px;" />]()
+&nbsp;&nbsp;
+[<img align="left" alt="Vue" width="26px" src="./img/vue.svg" style="padding-right:10px;" />]()
+&nbsp;&nbsp;
+
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />]()
 &nbsp;&nbsp;
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]()
@@ -33,18 +38,14 @@ I' a student of software engineering at the [UPC](https://upc.edu.pe).
 
 <br />
 
-### Connect with me
+## Connect with me
 <br />
 
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCodExTxlvx6WQK9uri2GACA#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCodExTxlvx6WQK9uri2GACA#gh-dark-mode-only)
+[![website](./img/youtube.svg)](https://www.youtube.com/channel/UCodExTxlvx6WQK9uri2GACA)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/_ion_7#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/_ion_7#gh-dark-mode-only)
+[![website](./img/twitter.svg)](https://twitter.com/_ion_7)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/john-sahir-leon-leon-294313195/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/john-sahir-leon-leon-294313195/#gh-dark-mode-only)
+[![website](./img/linkedin.svg)](https://www.linkedin.com/in/john-sahir-leon-leon-294313195)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/nobody.js/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/nobody.js/#gh-dark-mode-only)
+[![website](./img/instagram.svg)](https://www.instagram.com/nobody.js)
