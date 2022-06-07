@@ -4,7 +4,6 @@
 - 🧑‍🎓 I' a student of software engineering at the [UPC](https://upc.edu.pe).
 - 📖 I’m currently learning everything
 - 🥅 2022 Goals: Learn about concurrent programming, and become a full-stack developer
-- 👯 I’m looking to collaborate with other content creators
 - 🎮 I love to play games, travel, and spend time with my family/friends
 
 ## Languages and Tools
