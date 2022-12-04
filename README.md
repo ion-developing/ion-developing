@@ -3,7 +3,7 @@
 
 - 🧑‍🎓 I' a student of software engineering at the [UPC](https://upc.edu.pe).
 - 📖 I’m currently learning everything
-- 🥅 2022 Goals: Learn about concurrent programming, and become a full-stack developer
+- 🥅 2023 Goal: Become a full-stack developer
 - 🎮 I love to play games, travel, and spend time with my family/friends
 
 ## Languages and Tools
@@ -26,7 +26,11 @@
 &nbsp;&nbsp;
 [<img align="left" alt="Vue" width="26px" src="./img/vue.svg" style="padding-right:10px;" />]()
 &nbsp;&nbsp;
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />]()
+[<img align="left" alt="Kotlin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/512px-Kotlin_Icon.svg.png?20171012085709" style="padding-right:10px;" />]()
+&nbsp;&nbsp;
+[<img align="left" alt="Flutter" width="26px" src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" style="padding-right:10px;" />]()
+&nbsp;&nbsp;
+[<img align="left" alt="Node.js" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />]()
 &nbsp;&nbsp;
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]()
 &nbsp;&nbsp;
